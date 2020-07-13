@@ -1,12 +1,12 @@
-/*
-
-Author @Badshah Aman
-
-*/
 #include <iostream>
 #include <string>
 using namespace std;
-
+/*
+ * 
+ * Aman Upadhyay
+ * Amity University Kolkata
+ *  
+*/
 int main(){
     string Randi;
      cout << "Tere Behen Ki aor Bhai badhiya sab?";
