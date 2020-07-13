@@ -1,6 +1,11 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+/*
+ * 
+ * Aman Upadhyay
+ * Amity University Kolkata
+ *  
+*/
 long long a[10000000];
 
 void rotateArr(long long d, long long n){
