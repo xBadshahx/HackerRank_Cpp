@@ -1,12 +1,12 @@
-/*
-
-Author @Badshah Aman
-
-*/
 #include <iostream>
 #include <string>
 using namespace std;
-
+/*
+ * 
+ * Aman Upadhyay
+ * Amity University Kolkata
+ *  
+*/
 int main(){
     string fullname;
     cout << "Type your Full Name: ";
