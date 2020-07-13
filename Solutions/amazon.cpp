@@ -1,12 +1,11 @@
-/*
-
-Author @Badshah Aman
-
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
-
+/*
+ * 
+ * Aman Upadhyay
+ * Amity University Kolkata
+ *  
+*/
 void Triplets(int arr[], int count){
     bool check = true;
     for (int i = 0; i < count-2; i++)
