@@ -1,6 +1,11 @@
 #include <string>
 #include <sstream>
- 
+/*
+ * 
+ * Aman Upadhyay
+ * Amity University Kolkata
+ *  
+*/
 std::string lookandsay(const std::string &s)
 {
   std::ostringstream r;
