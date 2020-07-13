@@ -1,12 +1,12 @@
-/*
-
-Author @Badshah Aman
-
-*/
  #include <iostream>
  #define Nigger 5
  using namespace std;
-
+/*
+ * 
+ * Aman Upadhyay
+ * Amity University Kolkata
+ *  
+*/
  int boka[Nigger][Nigger] = {
      {1,0,0,0,0},
      {1,1,0,1,0},
