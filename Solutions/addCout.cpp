@@ -1,7 +1,8 @@
 /*
-
-Author @Badshah Aman
-
+ * 
+ * Aman Upadhyay
+ * Amity University Kolkata
+ *  
 */
 #include <iostream>
 using namespace std;
