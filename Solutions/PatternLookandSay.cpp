@@ -1,7 +1,7 @@
 #include <string>
 #include <sstream>
 /*
- * 
+ *
  * Aman Upadhyay
  * Amity University Kolkata
  *  
